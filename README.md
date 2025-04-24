@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey 👋, I'm superangelguy!
 
-<!--
-**superangelguy/superangelguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-End Developer passionate about creating user interfaces.
 
-Here are some ideas to get you started:
+## About Me
+💻 Ask me about: HTML, CSS, and my journey in web development.
+🌱 Currently learning and growing my development skills
+💡 Always eager to collaborate and learn from others
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools/Languages
+Languages I'm working with:
+- HTML5
+- CSS3
+- JavaScript (Learning)
+
+## Stats
+![Profile Views](https://komarev.com/ghpvc/?username=superangelguy)
+
+## Let's Connect
+Feel free to reach out and connect with me to discuss web development or potential collaborations! 
