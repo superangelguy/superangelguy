@@ -22,7 +22,7 @@ I'm on an exciting journey to become a skilled front-end developer! While I'm st
   
 </div>
 
-## 💖 Support the Project
+## 💖 Donate
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Donate-ff5e5b?logo=kofi&logoColor=white)](https://ko-fi.com/superangelguy)
 
