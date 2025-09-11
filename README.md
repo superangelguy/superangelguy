@@ -2,16 +2,16 @@
 
 I'm **superangelguy**, a front-end developer with a strong foundation in web development fundamentals.  
 
-I love turning ideas into clean, responsive, and beautiful user interfaces.  
-Outside of coding, you’ll usually find me learning new skills, exploring design, or connecting with other developers.  
+I’m passionate about building clean, responsive, and user-friendly interfaces.  
+Every day is an opportunity to improve my skills, explore new technologies, and create something meaningful.  
 
 ---
 
-### Fun Facts  
-- 🌱 Currently mastering CSS layouts & animations  
-- 📚 Learning JavaScript fundamentals  
+### Focus Areas  
+- 🌱 Currently mastering **CSS layouts & animations**  
+- 📚 Learning **JavaScript fundamentals**  
 - 🎯 Goal: Building interactive and responsive websites  
-- ☕ I don’t drink coffee, but I code a lot!  
+- 🤝 Always eager to collaborate and learn from others  
 
 ---
 
