@@ -1,18 +1,33 @@
-# Hi there! 👋  
+# Hi, I'm Superangelguy 👋
 
-I'm **superangelguy**, a front-end developer with a strong foundation in web development fundamentals.  
+Developer focused on building modern, reliable, and user-focused projects.
 
-I’m passionate about building clean, responsive, and user-friendly interfaces.  
-Every day is an opportunity to improve my skills, explore new technologies, and create something meaningful.  
-
----
-
-### Focus Areas  
-- 🌱 Currently mastering **CSS layouts & animations**  
-- 📚 Learning **JavaScript fundamentals**  
-- 🎯 Goal: Building interactive and responsive websites  
-- 🤝 Always eager to collaborate and learn from others  
+Passionate about creating clean, functional experiences and continuously improving through hands-on projects and experimentation.
 
 ---
 
-📌 *“Every expert was once a beginner. The key is to never stop learning!”* ✨  
+## What I Work With
+- Frontend Development  
+- Modern Web Technologies  
+- UI / UX Focused Design  
+- Automation & Technical Projects  
+
+---
+
+## Current Focus
+- Building polished and scalable applications  
+- Expanding full-stack development skills  
+- Developing practical and efficient solutions  
+- Learning and improving through consistent iteration  
+
+---
+
+## Tech
+HTML • CSS • JavaScript • Next.js • Tailwind CSS • Git • GitHub  
+
+---
+
+## Philosophy
+> Build. Improve. Repeat.
+
+Always exploring, creating, and growing.
